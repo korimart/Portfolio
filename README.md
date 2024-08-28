@@ -4,6 +4,6 @@
 
 [https://github.com/korimart/ComponentWidgetDemo](https://github.com/korimart/PaperUnreal)
 
-## 언리얼 리플렉션 시스템에 대한 분석과 사용방법의 개선
+## 언리얼 엔진 리플렉션 시스템에 대한 분석과 사용방법의 개선
 
 https://github.com/korimart/ReflectionDemo
