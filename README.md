@@ -10,7 +10,7 @@ https://github.com/korimart/PaperUnreal
 
 ## 언리얼 엔진 리플렉션 시스템에 대한 분석과 사용방법의 개선
 
-제작기간 : 약 7일
+제작기간 : 약 14일
 
 언리얼 엔진의 Reflection System을 분석 및 간단하게 정리하고 이에 대한 코드 개선 방법을 제시합니다.
 
